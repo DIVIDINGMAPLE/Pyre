@@ -1,4 +1,4 @@
-# Pyre
+#Pyre
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ namespace Pyre
 {
     class Program
     {
-        static void Main(string[] args )55
+        static void Main(string[] args )
         {
             Tycoon();
             Boxy();
@@ -318,6 +318,5 @@ namespace Pyre
     }
 
 }
-
 
 
